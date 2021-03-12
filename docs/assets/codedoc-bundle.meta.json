@@ -2,110 +2,115 @@
   "init": [
     {
       "name": "initJssCs",
-      "filename": "C:/Users/carlo/Documents/Fileshare/hold/code/.codedoc/node_modules/@codedoc/core/dist/es5/transport/setup-jss.js",
-      "hash": "1hVGubUpykTJA5MPmctZQA=="
+      "filename": "C:/Users/carlo/Dropbox/Homework Hub/.codedoc/node_modules/@codedoc/core/dist/es5/transport/setup-jss.js",
+      "hash": "PeDqTnvmC0tYlLvIxNV+WQ=="
     },
     {
       "name": "installTheme",
-      "filename": "C:/Users/carlo/Documents/Fileshare/hold/code/.codedoc/content/theme.ts",
-      "hash": "Svgu6GrEZmGDi0R7ecM7qQ=="
+      "filename": "C:/Users/carlo/Dropbox/Homework Hub/.codedoc/content/theme.ts",
+      "hash": "PeR7ia1AQrH0xQyoWvaivw=="
     },
     {
       "name": "codeSelection",
-      "filename": "C:/Users/carlo/Documents/Fileshare/hold/code/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/selection.js",
-      "hash": "xqvGZncUc2gbuQ/28HnEcA=="
+      "filename": "C:/Users/carlo/Dropbox/Homework Hub/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/selection.js",
+      "hash": "6sjQEkqzsKmnkZQ5IP2a5g=="
     },
     {
       "name": "sameLineLengthInCodes",
-      "filename": "C:/Users/carlo/Documents/Fileshare/hold/code/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/same-line-length.js",
-      "hash": "ckF82PFT7uLf99Yv3SPf5g=="
+      "filename": "C:/Users/carlo/Dropbox/Homework Hub/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/same-line-length.js",
+      "hash": "e3cBdw7igQQP48mdMDcwrQ=="
     },
     {
       "name": "initHintBox",
-      "filename": "C:/Users/carlo/Documents/Fileshare/hold/code/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-hint/index.js",
-      "hash": "8x/chq4xTSymrRDRXXwxtg=="
+      "filename": "C:/Users/carlo/Dropbox/Homework Hub/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-hint/index.js",
+      "hash": "LdnH3DUHUVg6sKt40Bd+MA=="
     },
     {
       "name": "initCodeLineRef",
-      "filename": "C:/Users/carlo/Documents/Fileshare/hold/code/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-ref/index.js",
-      "hash": "xl1EntIxeZc5C2Pc0+XYrw=="
+      "filename": "C:/Users/carlo/Dropbox/Homework Hub/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-ref/index.js",
+      "hash": "NlikoN+SJiTLF81hXzKC3w=="
     },
     {
       "name": "initSmartCopy",
-      "filename": "C:/Users/carlo/Documents/Fileshare/hold/code/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/smart-copy.js",
-      "hash": "tHwE51lbNsyZYJYg8eQXJA=="
+      "filename": "C:/Users/carlo/Dropbox/Homework Hub/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/smart-copy.js",
+      "hash": "tkdHrraQLXCb9HKRbIlROg=="
     },
     {
       "name": "copyHeadings",
-      "filename": "C:/Users/carlo/Documents/Fileshare/hold/code/.codedoc/node_modules/@codedoc/core/dist/es5/components/heading/copy-headings.js",
-      "hash": "5/nn92rd5pjuimjofuy1sA=="
+      "filename": "C:/Users/carlo/Dropbox/Homework Hub/.codedoc/node_modules/@codedoc/core/dist/es5/components/heading/copy-headings.js",
+      "hash": "Lr/x7y+nKLT9r3AhYKzIww=="
     },
     {
       "name": "contentNavHighlight",
-      "filename": "C:/Users/carlo/Documents/Fileshare/hold/code/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/contentnav/highlight.js",
-      "hash": "wthLc72ghryniaH26oIL+g=="
+      "filename": "C:/Users/carlo/Dropbox/Homework Hub/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/contentnav/highlight.js",
+      "hash": "bUsabMTEG7ItgkRqdI+eJA=="
     },
     {
       "name": "loadDeferredIFrames",
-      "filename": "C:/Users/carlo/Documents/Fileshare/hold/code/.codedoc/node_modules/@codedoc/core/dist/es5/transport/deferred-iframe.js",
-      "hash": "uXcO/d2qE7f+HesVA3XxjQ=="
+      "filename": "C:/Users/carlo/Dropbox/Homework Hub/.codedoc/node_modules/@codedoc/core/dist/es5/transport/deferred-iframe.js",
+      "hash": "+tjeitw5b2Q0+uLdiBMszg=="
     },
     {
       "name": "smoothLoading",
-      "filename": "C:/Users/carlo/Documents/Fileshare/hold/code/.codedoc/node_modules/@codedoc/core/dist/es5/transport/smooth-loading.js",
-      "hash": "IZ9/vDVPuo5/QUcN1pBDUg=="
+      "filename": "C:/Users/carlo/Dropbox/Homework Hub/.codedoc/node_modules/@codedoc/core/dist/es5/transport/smooth-loading.js",
+      "hash": "/dIT/UAI+9Mxz/xqyjxqtA=="
     },
     {
       "name": "tocHighlight",
-      "filename": "C:/Users/carlo/Documents/Fileshare/hold/code/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/toc-highlight.js",
-      "hash": "gECVDLe6HWk+R93T+5+wug=="
+      "filename": "C:/Users/carlo/Dropbox/Homework Hub/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/toc-highlight.js",
+      "hash": "4RrnsbK5IiraO5WazuHKxQ=="
     },
     {
       "name": "postNavSearch",
-      "filename": "C:/Users/carlo/Documents/Fileshare/hold/code/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/search/post-nav/index.js",
-      "hash": "baOOIkdr+jql/4312kB2Ew=="
+      "filename": "C:/Users/carlo/Dropbox/Homework Hub/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/search/post-nav/index.js",
+      "hash": "SD/g0pmqvG7maekrGg11CQ=="
     },
     {
       "name": "copyLineLinks",
-      "filename": "C:/Users/carlo/Documents/Fileshare/hold/code/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-links/copy-line-link.js",
-      "hash": "HCPs8v1zHMRXs8jB5TGHrQ=="
+      "filename": "C:/Users/carlo/Dropbox/Homework Hub/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-links/copy-line-link.js",
+      "hash": "f9eGrZNim22ADFtY4UbIhA=="
     },
     {
       "name": "gatherFootnotes",
-      "filename": "C:/Users/carlo/Documents/Fileshare/hold/code/.codedoc/node_modules/@codedoc/core/dist/es5/components/footnote/gather-footnotes.js",
-      "hash": "rr9LBAkgFgm15rNOrwc3JQ=="
+      "filename": "C:/Users/carlo/Dropbox/Homework Hub/.codedoc/node_modules/@codedoc/core/dist/es5/components/footnote/gather-footnotes.js",
+      "hash": "QmrnbkxE4W0oitz5bhTFWg=="
     }
   ],
   "components": [
     {
       "name": "ToCToggle",
-      "filename": "C:/Users/carlo/Documents/Fileshare/hold/code/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/toggle/index.js",
-      "hash": "CbqTkqZI49exNgZpp9iEWg=="
+      "filename": "C:/Users/carlo/Dropbox/Homework Hub/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/toggle/index.js",
+      "hash": "CW/SDQQtbz+KzyigocS0Sw=="
     },
     {
       "name": "DarkModeSwitch",
-      "filename": "C:/Users/carlo/Documents/Fileshare/hold/code/.codedoc/node_modules/@codedoc/core/dist/es5/components/darkmode/index.js",
-      "hash": "m1s2pQBxiZQ5iYn1cKQELg=="
+      "filename": "C:/Users/carlo/Dropbox/Homework Hub/.codedoc/node_modules/@codedoc/core/dist/es5/components/darkmode/index.js",
+      "hash": "fLDOEgJzaeYf7/pofV4uPA=="
     },
     {
       "name": "ConfigTransport",
-      "filename": "C:/Users/carlo/Documents/Fileshare/hold/code/.codedoc/node_modules/@codedoc/core/dist/es5/transport/config.js",
-      "hash": "50brRXZbMuVel3YWb5QE7w=="
+      "filename": "C:/Users/carlo/Dropbox/Homework Hub/.codedoc/node_modules/@codedoc/core/dist/es5/transport/config.js",
+      "hash": "lnSc5hmcVJkm28mb7e6I6A=="
     },
     {
       "name": "TabSelector",
-      "filename": "C:/Users/carlo/Documents/Fileshare/hold/code/.codedoc/node_modules/@codedoc/core/dist/es5/components/tabs/selector.js",
-      "hash": "qnB/XXpCIn4f87bC1XAxJQ=="
+      "filename": "C:/Users/carlo/Dropbox/Homework Hub/.codedoc/node_modules/@codedoc/core/dist/es5/components/tabs/selector.js",
+      "hash": "LXGNZoLkvUWMycP3YJIWbg=="
     },
     {
       "name": "CollapseControl",
-      "filename": "C:/Users/carlo/Documents/Fileshare/hold/code/.codedoc/node_modules/@codedoc/core/dist/es5/components/collapse/collapse-control.js",
-      "hash": "vuyxmGwmT3G0emAtmw+Eag=="
+      "filename": "C:/Users/carlo/Dropbox/Homework Hub/.codedoc/node_modules/@codedoc/core/dist/es5/components/collapse/collapse-control.js",
+      "hash": "pM8xoDdCieR8BP5buAzdYQ=="
+    },
+    {
+      "name": "ToCPrevNext",
+      "filename": "C:/Users/carlo/Dropbox/Homework Hub/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js",
+      "hash": "+DlCUGWWcOh+/OvUMpUJZQ=="
     }
   ],
   "renderer": {
     "name": "getRenderer",
-    "filename": "C:/Users/carlo/Documents/Fileshare/hold/code/.codedoc/node_modules/@codedoc/core/dist/es5/transport/renderer.js",
-    "hash": "tC56WE3NJHPqc6m/CFCAWw=="
+    "filename": "C:/Users/carlo/Dropbox/Homework Hub/.codedoc/node_modules/@codedoc/core/dist/es5/transport/renderer.js",
+    "hash": "vW25J+pjkCLACoDsH6lHeA=="
   }
 }
